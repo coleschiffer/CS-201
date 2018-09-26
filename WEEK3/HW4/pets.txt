@@ -1,0 +1,7 @@
+3
+CAT
+Yawgoo,Peter,Brown,3,medium
+DOG
+Lana,Richard,Red,2,big
+CAT
+Pipen,Peter,Black,1,short
